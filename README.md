@@ -1,3 +1,5 @@
+<img src="django-file-captcha.svg" alt="django-file-captcha" width="120">
+
 # Django CAPTCHA - File Storage Backend
 
 A Django CAPTCHA application with file-based storage backend support. This is an enhanced version of `django-simple-captcha` that allows you to store CAPTCHA data using Django's file storage system instead of only database/cache backends.
